@@ -1,21 +1,25 @@
-### Hi there 👋
+## Brendan Hoss
 
-- 🔭 I’m currently working on building my data science tool bag while focusing in sports data and machine learning modeling
-- 🌱 I’m currently learning how to create an image clustering algorithm to group user uploaded images together based on skill
-- 🤔 I’m looking for help with any and all machine learning algorithms and understanding their complexity
-- 💬 Ask me about anything, I am open and freeminded to talk about anything in or outside the techonology realm
-- 📫 How to reach me: You can find me on Linkedin @ https://www.linkedin.com/in/brendan-hoss/
-- ⚡ Fun fact: I am someone who enjoys the outdoors just as much as I enjoy my computer based skills. I try to create a happy middle allowing myself time to downhill mountain bike, hike, kayak, surf and camp. I am outgoing and love talking tech or nature. Feel free to reach out with any questions or just to chat!
--->
-<!--
-**Bh0ss/Bh0ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solutions Engineer** at [Veoci](https://www.veoci.com) — building configurable enterprise solutions for emergency management, compliance, and operational workflows.
 
-Here are some ideas to get you started:
+### What I Do
 
-- 🔭 I’m currently working on building my data science tool bag while focusing in sports data and machine learning modeling
-- 🌱 I’m currently learning how to create an image clustering algorithm to group user uploaded images together based on skill
-- 🤔 I’m looking for help with any and all machine learning algorithms and understanding their complexity
-- 💬 Ask me about anything, I am open and freeminded to talk about anything in or outside the techonology realm
-- 📫 How to reach me: You can find me on Linkedin @ https://www.linkedin.com/in/brendan-hoss/
-- ⚡ Fun fact: I am someone who enjoys the outdoors just as much as I enjoy my computer based skills. I try to create a happy middle allowing myself time to downhill mountain bike, hike, kayak, surf and camp. I am outgoing and love talking tech or nature. Feel free to reach out with any questions or just to chat!
--->
+- Design and implement end-to-end platform solutions — workflow automation, form systems, integrations, and data pipelines
+- Build custom tooling with **n8n**, **Python**, and **TypeScript** to bridge platform capabilities with client needs
+- Architect multi-agent AI systems that coordinate specialized agents for research, building, debugging, and documentation
+- Ship full-stack web applications with **Next.js**, **Tailwind CSS**, and **Cloudflare Workers**
+
+### Tech Stack
+
+`Python` `TypeScript` `Next.js` `n8n` `Tailwind CSS` `SQLite` `Cloudflare Workers` `FastAPI` `FreeMarker` `REST APIs`
+
+### Current Work
+
+- Designing and deploying enterprise workflow solutions for public sector and corporate clients
+- Building an AI-powered orchestration framework — a multi-agent system with specialized companions for different engineering tasks
+- Shipping production web applications from design through deployment
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendan-hoss/)
+[![Website](https://img.shields.io/badge/brendanhoss.com-1a3a2a?style=flat&logo=googlechrome&logoColor=white)](https://brendanhoss.com)
